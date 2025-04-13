@@ -18,6 +18,7 @@ Currently expanding my GitHub portfolio by building real-world applications and 
 
 **Projects**  
 - [Weather Fetcher App](https://github.com/MarcDev357/weather-fetcher) — A Python script that retrieves live weather data using the OpenWeatherMap API.
+- [Bash System Health Checker](https://github.com/MarcDev/system-health-checker) - A Bash script that checks and displays key system health metrics. 
 
 **Contact Me**  
 - Email: marcdev357@outlook.com  
